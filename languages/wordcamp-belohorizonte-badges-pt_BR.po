@@ -1,0 +1,109 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordCamp Belo Horizonte Badges\n"
+"POT-Creation-Date: 2015-04-06 13:28-0300\n"
+"PO-Revision-Date: 2015-04-06 13:28-0300\n"
+"Last-Translator: Valério Souza <eu@valeriosouza.com.br>\n"
+"Language-Team: Valerio <valeriosza@gmail.com>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_x\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../class-wordcamp-belohorizonte-badges.php:181
+msgid "http://github.com/valeriosouza/"
+msgstr "http://github.com/valeriosouza/"
+
+#: ../class-wordcamp-belohorizonte-badges.php:181
+msgid "GitHub"
+msgstr "GitHub"
+
+#: ../class-wordcamp-belohorizonte-badges.php:345
+msgid "WordCamp Belo Horizonte Badges Shortcode Builder"
+msgstr "Criador de Shortcode de Badges do WordCamp Belo Horizonte "
+
+#: ../class-wordcamp-belohorizonte-badges.php:346
+#: ../class-wordcamp-belohorizonte-badges.php:514
+msgid "Insert Shortcode"
+msgstr "Inserir Shortcode"
+
+#: ../class-wordcamp-belohorizonte-badges.php:346
+#: ../class-wordcamp-belohorizonte-badges.php:504
+#: ../class-wordcamp-belohorizonte-badges.php:508
+#: ../includes/widget-wordcamp_belohorizonte_badge.php:20
+msgid "WordCamp Belo Horizonte Badges"
+msgstr "Badges do WordCamp Belo Horizonte"
+
+#: ../class-wordcamp-belohorizonte-badges.php:365
+msgid "Your content goes here"
+msgstr "Seu conteúdo vai aqui"
+
+#: ../class-wordcamp-belohorizonte-badges.php:439
+#: ../includes/widget-wordcamp_belohorizonte_badge.php:179
+msgid "Add Another"
+msgstr "Adicionar outro"
+
+#: ../class-wordcamp-belohorizonte-badges.php:453
+#: ../includes/widget-wordcamp_belohorizonte_badge.php:149
+#: ../includes/widget-wordcamp_belohorizonte_badge.php:185
+msgid "Remove"
+msgstr "Remover"
+
+#: ../class-wordcamp-belohorizonte-badges.php:504
+msgid "Shortcode Builder"
+msgstr "Criador de Shortcode"
+
+#: ../configs/wordcamp_belohorizonte_badge-configuration.php:15
+msgid "Configuration"
+msgstr "Configuração"
+
+#: ../configs/wordcamp_belohorizonte_badge-configuration.php:20
+#: ../configs/wordcamp_belohorizonte_badge-configuration.php:21
+#: ../configs/wordcamp_belohorizonte_badge-settings.php:20
+msgid "Badge Type"
+msgstr "Tipo de Badge"
+
+#: ../configs/wordcamp_belohorizonte_badge-configuration.php:23
+msgid ""
+"*attending||Im Attending,speaking||Im Speaking,sponsor||Im a Proud Sponsor,"
+"volunteer||Im a Volunteer"
+msgstr ""
+"*attending||Eu vou Participar,speaking||Eu vou Palestrar,sponsor||Eu sou "
+"Patrocinador,volunteer||Eu sou Voluntário"
+
+#: ../configs/wordcamp_belohorizonte_badge-configuration.php:26
+#: ../configs/wordcamp_belohorizonte_badge-configuration.php:27
+msgid "Alignment"
+msgstr "Alinhamento"
+
+#: ../configs/wordcamp_belohorizonte_badge-configuration.php:29
+msgid "*none||None,left||Left,center||Center,right||Right"
+msgstr "*none||Nenhum,left||Esquerda,center||Centralizado,right||Direita"
+
+#: ../configs/wordcamp_belohorizonte_badge-settings.php:15
+msgid "Settings"
+msgstr "Configurações"
+
+#: ../configs/wordcamp_belohorizonte_badge-settings.php:21
+msgid "Type of badge to display"
+msgstr "Tipo de Badge para Mostrar"
+
+#: ../includes/field-onoff.php:3
+msgid "On"
+msgstr "Ligar"
+
+#: ../includes/field-onoff.php:3
+msgid "Off"
+msgstr "Desligar"
+
+#: ../includes/widget-wordcamp_belohorizonte_badge.php:22
+msgid "Display a 2015 WordCamp Belo Horizonte Badge."
+msgstr "Mostrar o Badge do WordCamp Belo Horizonte 2015"
+
+#~ msgid "Translate"
+#~ msgstr "Traduzir"
