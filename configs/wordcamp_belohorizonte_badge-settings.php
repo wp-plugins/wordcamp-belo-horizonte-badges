@@ -20,7 +20,7 @@ $group = array(
 			'label'		=> 	__('Badge Type','wordcamp-belohorizonte-badges'),
 			'caption'	=>	__('Type of badge to display','wordcamp-belohorizonte-badges'),
 			'type'		=>	'dropdown',
-			'default'	=> 	'*attending||Im Attending,speaking||Im Speaking,sponsor||Im a Proud Sponsor,volunteer||Im a Volunteer',
+			'default'	=> 	__('*attending||Im Attending,speaking||Im Speaking,sponsor||Im a Proud Sponsor,volunteer||Im a Volunteer','wordcamp-belohorizonte-badges'),
 		),
 	),
 	'multiple'	=> false,

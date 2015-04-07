@@ -10,19 +10,19 @@
 	<?php
 		if($badge_type == 'attending'):
 	?>
-			<a href="http://belohorizonte.wordcamp.org/2015/"><img src="http://belohorizonte.wordcamp.org/2015/files/2015/04/wordcampbh_badge_participante.png" alt="Eu vou Participar do WordCamp Belo Horizonte 2015" title="Eu vou Participar do WordCamp Belo Horizonte 2015" width="150" height="175" /></a>
+			<a href="http://belohorizonte.wordcamp.org/2015/"><img src="http://belohorizonte.wordcamp.org/2015/files/2015/04/wordcampbh_badge_participante.png" alt="Eu vou Participar do WordCamp Belo Horizonte 2015" title="Eu vou Participar do WordCamp Belo Horizonte 2015" width="300" height="300" /></a>
 	<?php
 		elseif($badge_type == 'speaking'):
 	?>
-			<a href="http://belohorizonte.wordcamp.org/2015/"><img src="http://belohorizonte.wordcamp.org/2015/files/2015/04/wordcampbh_badge_palestrante.png" alt="Eu vou Palestrar no WordCamp Belo Horizonte 2015" title="Eu vou Palestrar no WordCamp Belo Horizonte 2015" width="150" height="175" /></a>
+			<a href="http://belohorizonte.wordcamp.org/2015/"><img src="http://belohorizonte.wordcamp.org/2015/files/2015/04/wordcampbh_badge_palestrante.png" alt="Eu vou Palestrar no WordCamp Belo Horizonte 2015" title="Eu vou Palestrar no WordCamp Belo Horizonte 2015" width="300" height="300" /></a>
 	<?php
 		elseif($badge_type == 'sponsor'):
 	?>
-	<a href="http://belohorizonte.wordcamp.org/2015/"><img src="http://belohorizonte.wordcamp.org/2015/files/2015/04/wordcampbh_badge_patrocinador.png" alt="Eu sou Patrocinador do WordCamp Belo Horizonte 2015" title="Eu sou Patrocinador do WordCamp Belo Horizonte 2015" width="150" height="175" /></a>
+	<a href="http://belohorizonte.wordcamp.org/2015/"><img src="http://belohorizonte.wordcamp.org/2015/files/2015/04/wordcampbh_badge_patrocinador.png" alt="Eu sou Patrocinador do WordCamp Belo Horizonte 2015" title="Eu sou Patrocinador do WordCamp Belo Horizonte 2015" width="300" height="300" /></a>
 	<?php
 		elseif($badge_type == 'volunteer'):
 	?>
-			<a href="http://belohorizonte.wordcamp.org/2015/"><img src="http://belohorizonte.wordcamp.org/2015/files/2015/04/wordcampbh_badge_voluntario.png" alt="Eu sou Voluntário do WordCamp Belo Horizonte 2015" title="Eu sou Voluntário do WordCamp Belo Horizonte 2015" width="150" height="175" /></a>
+			<a href="http://belohorizonte.wordcamp.org/2015/"><img src="http://belohorizonte.wordcamp.org/2015/files/2015/04/wordcampbh_badge_voluntario.png" alt="Eu sou Voluntário do WordCamp Belo Horizonte 2015" title="Eu sou Voluntário do WordCamp Belo Horizonte 2015" width="300" height="300" /></a>
 	<?php
 		endif;
 	?>

@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=P5QTG
 Tags: wordcamp, belohorizonte, badges, shortcode, widget, 2015
 Requires at least: 3.8
 Tested up to: 4.2
-Stable tag: 1.0.0
+Stable tag: 1.1.0
 License: GPLv3
 
 Display WordCamp Belo Horizonte 2015 badges on your website with Shortcode or Widget
@@ -56,6 +56,9 @@ The manual installation method involves downloading the plugin and uploading it 
 
 == Changelog ==
 
+= 1.1.0 = 
+* April 6, 2015
+- Update badges
 
 = 1.0.0 = 
 * April 1, 2015

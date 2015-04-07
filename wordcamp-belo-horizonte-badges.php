@@ -10,7 +10,7 @@
  * Plugin Name: WordCamp Belo Horizonte Badges
  * Plugin URI:  https://github.com/valeriosouza/wordcamp-belo-horizonte-badges
  * Description: Display 2015 WordCamp Belo Horizonte badges on your site with Shortcode or Widget
- * Version:     1.0.0
+ * Version:     1.1.0
  * Author:      Valerio Souza
  * Author URI:  http://valeriosouza.com.br
  * Text Domain: wordcamp-belohorizonte-badges
